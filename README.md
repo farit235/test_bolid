@@ -6,3 +6,5 @@
 4. Установите зависимости с командой: pip install -r requirments.txt 
 5. Запустите проект с помощью: ./manage.py runserver
 6. Пользуйтесь!
+
+Возможно, потребуется сделать superuser-a, для этого использзуйте команду: ./manage.py createsuperuser  и следуйте инструкциям.
